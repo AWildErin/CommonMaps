@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CommonMaps",
+	"Description": "Common maps editor tool ported from LyraEditor",
+	"Category": "Editor",
+	"CreatedBy": "Epic Games & AWildErin",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "CommonMaps",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
